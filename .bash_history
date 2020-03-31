@@ -414,3 +414,13 @@ check50 cs50/problems/2020/x/plurality
 submit50 cs50/problems/2020/x/plurality
 cd
 git status
+git commit -am "plurality done"
+git push https://github.com/dennisberg13100/cs50.git
+git push --set-upstream https://github.com/dennisberg13100/cs50.git master
+git status
+git add
+git add -A
+git
+git add -a
+git add -A
+git status 
