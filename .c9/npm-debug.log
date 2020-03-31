@@ -37,21 +37,21 @@
 17 verbose addRemoteTarball https://dhj20r2nmszcd.cloudfront.net/static/cloud9ide-nak-3cb2f94.tar.gz not in flight; adding
 18 verbose addRemoteTarball [ 'https://dhj20r2nmszcd.cloudfront.net/static/cloud9ide-nak-3cb2f94.tar.gz',
 18 verbose addRemoteTarball   null ]
-19 info retry fetch attempt 1 at 9:01:11 AM
-20 info attempt registry request try #1 at 9:01:11 AM
+19 info retry fetch attempt 1 at 2:26:58 PM
+20 info attempt registry request try #1 at 2:26:58 PM
 21 http fetch GET https://dhj20r2nmszcd.cloudfront.net/static/cloud9ide-nak-3cb2f94.tar.gz
-22 verbose request id f5fa6061b7ce3c2f
+22 verbose request id 2585bddb1c1aade0
 23 http fetch 200 https://dhj20r2nmszcd.cloudfront.net/static/cloud9ide-nak-3cb2f94.tar.gz
 24 silly fetchAndShaCheck shasum ea1d75d62d4b21936d5b5cb6a535ee9112b17943
-25 verbose addTmpTarball /tmp/npm-225-36bfdfee/dhj20r2nmszcd.cloudfront.net/static/cloud9ide-nak-3cb2f94.tar.gz not in flight; adding
+25 verbose addTmpTarball /tmp/npm-222-06336ea6/dhj20r2nmszcd.cloudfront.net/static/cloud9ide-nak-3cb2f94.tar.gz not in flight; adding
 26 verbose correctMkdir /opt/c9/tmp/.npm correctMkdir not in flight; initializing
 27 verbose makeDirectory /opt/c9/tmp/.npm creation not in flight; initializing
 28 silly makeDirectory /opt/c9/tmp/.npm uid: 1000 gid: 1000
-29 verbose addTmpTarball validating metadata from /tmp/npm-225-36bfdfee/dhj20r2nmszcd.cloudfront.net/static/cloud9ide-nak-3cb2f94.tar.gz
-30 verbose tar unpack /tmp/npm-225-36bfdfee/dhj20r2nmszcd.cloudfront.net/static/cloud9ide-nak-3cb2f94.tar.gz
-31 verbose tar unpacking to /tmp/npm-225-36bfdfee/unpack-0021533d
-32 silly gentlyRm /tmp/npm-225-36bfdfee/unpack-0021533d is being purged
-33 verbose gentlyRm don't care about contents; nuking /tmp/npm-225-36bfdfee/unpack-0021533d
+29 verbose addTmpTarball validating metadata from /tmp/npm-222-06336ea6/dhj20r2nmszcd.cloudfront.net/static/cloud9ide-nak-3cb2f94.tar.gz
+30 verbose tar unpack /tmp/npm-222-06336ea6/dhj20r2nmszcd.cloudfront.net/static/cloud9ide-nak-3cb2f94.tar.gz
+31 verbose tar unpacking to /tmp/npm-222-06336ea6/unpack-1da40a7c
+32 silly gentlyRm /tmp/npm-222-06336ea6/unpack-1da40a7c is being purged
+33 verbose gentlyRm don't care about contents; nuking /tmp/npm-222-06336ea6/unpack-1da40a7c
 34 silly gunzTarPerm modes [ '775', '664' ]
 35 silly gunzTarPerm extractEntry
 36 silly gunzTarPerm extractEntry .gitignore
@@ -205,20 +205,20 @@
 170 silly mapToRegistry uri https://registry.npmjs.org/colors
 171 verbose request uri https://registry.npmjs.org/isbinaryfile
 172 verbose request no auth needed
-173 info attempt registry request try #1 at 9:01:12 AM
+173 info attempt registry request try #1 at 2:26:59 PM
 174 http request GET https://registry.npmjs.org/isbinaryfile
 175 verbose request uri https://registry.npmjs.org/colors
 176 verbose request no auth needed
-177 info attempt registry request try #1 at 9:01:12 AM
+177 info attempt registry request try #1 at 2:26:59 PM
 178 http request GET https://registry.npmjs.org/colors
 179 http 200 https://registry.npmjs.org/isbinaryfile
-180 verbose headers { date: 'Mon, 23 Mar 2020 09:01:12 GMT',
+180 verbose headers { date: 'Mon, 23 Mar 2020 14:26:59 GMT',
 180 verbose headers   'content-type': 'application/json',
 180 verbose headers   'transfer-encoding': 'chunked',
 180 verbose headers   connection: 'keep-alive',
-180 verbose headers   'set-cookie': [ '__cfduid=dea8e3f50b0e02d7e69342bf5488bfeb71584954072; expires=Wed, 22-Apr-20 09:01:12 GMT; path=/; domain=.npmjs.org; HttpOnly; SameSite=Lax' ],
-180 verbose headers   'cf-ray': '5786f7672d9a79b9-SEA',
-180 verbose headers   age: '1500',
+180 verbose headers   'set-cookie': [ '__cfduid=d3c2797ae1f79798110d7e55e884bdb2d1584973619; expires=Wed, 22-Apr-20 14:26:59 GMT; path=/; domain=.npmjs.org; HttpOnly; SameSite=Lax' ],
+180 verbose headers   'cf-ray': '5788d4a05e6ef585-SEA',
+180 verbose headers   age: '6637',
 180 verbose headers   'cache-control': 'public, max-age=300',
 180 verbose headers   etag: 'W/"e64e14dc40181513598ae121b00f12fa"',
 180 verbose headers   'last-modified': 'Tue, 17 Mar 2020 19:29:18 GMT',
@@ -228,13 +228,13 @@
 180 verbose headers   server: 'cloudflare',
 180 verbose headers   'content-encoding': 'gzip' }
 181 silly get cb [ 200,
-181 silly get   { date: 'Mon, 23 Mar 2020 09:01:12 GMT',
+181 silly get   { date: 'Mon, 23 Mar 2020 14:26:59 GMT',
 181 silly get     'content-type': 'application/json',
 181 silly get     'transfer-encoding': 'chunked',
 181 silly get     connection: 'keep-alive',
-181 silly get     'set-cookie': [ '__cfduid=dea8e3f50b0e02d7e69342bf5488bfeb71584954072; expires=Wed, 22-Apr-20 09:01:12 GMT; path=/; domain=.npmjs.org; HttpOnly; SameSite=Lax' ],
-181 silly get     'cf-ray': '5786f7672d9a79b9-SEA',
-181 silly get     age: '1500',
+181 silly get     'set-cookie': [ '__cfduid=d3c2797ae1f79798110d7e55e884bdb2d1584973619; expires=Wed, 22-Apr-20 14:26:59 GMT; path=/; domain=.npmjs.org; HttpOnly; SameSite=Lax' ],
+181 silly get     'cf-ray': '5788d4a05e6ef585-SEA',
+181 silly get     age: '6637',
 181 silly get     'cache-control': 'public, max-age=300',
 181 silly get     etag: 'W/"e64e14dc40181513598ae121b00f12fa"',
 181 silly get     'last-modified': 'Tue, 17 Mar 2020 19:29:18 GMT',
@@ -246,13 +246,13 @@
 182 verbose get saving isbinaryfile to /opt/c9/tmp/.npm/registry.npmjs.org/isbinaryfile/.cache.json
 183 verbose correctMkdir /opt/c9/tmp/.npm correctMkdir not in flight; initializing
 184 http 200 https://registry.npmjs.org/colors
-185 verbose headers { date: 'Mon, 23 Mar 2020 09:01:12 GMT',
+185 verbose headers { date: 'Mon, 23 Mar 2020 14:26:59 GMT',
 185 verbose headers   'content-type': 'application/json',
 185 verbose headers   'transfer-encoding': 'chunked',
 185 verbose headers   connection: 'keep-alive',
-185 verbose headers   'set-cookie': [ '__cfduid=d37c3e7a062b8504ac30f48d62e4e561d1584954072; expires=Wed, 22-Apr-20 09:01:12 GMT; path=/; domain=.npmjs.org; HttpOnly; SameSite=Lax' ],
-185 verbose headers   'cf-ray': '5786f7673c4ee38e-SEA',
-185 verbose headers   age: '6604',
+185 verbose headers   'set-cookie': [ '__cfduid=d9326006e9c68adece1422700129e8f151584973619; expires=Wed, 22-Apr-20 14:26:59 GMT; path=/; domain=.npmjs.org; HttpOnly; SameSite=Lax' ],
+185 verbose headers   'cf-ray': '5788d4a06d3ac981-SEA',
+185 verbose headers   age: '3621',
 185 verbose headers   'cache-control': 'public, max-age=300',
 185 verbose headers   etag: 'W/"64409f180c5fe836269a137c233ef66d"',
 185 verbose headers   'last-modified': 'Sun, 22 Sep 2019 23:46:11 GMT',
@@ -262,13 +262,13 @@
 185 verbose headers   server: 'cloudflare',
 185 verbose headers   'content-encoding': 'gzip' }
 186 silly get cb [ 200,
-186 silly get   { date: 'Mon, 23 Mar 2020 09:01:12 GMT',
+186 silly get   { date: 'Mon, 23 Mar 2020 14:26:59 GMT',
 186 silly get     'content-type': 'application/json',
 186 silly get     'transfer-encoding': 'chunked',
 186 silly get     connection: 'keep-alive',
-186 silly get     'set-cookie': [ '__cfduid=d37c3e7a062b8504ac30f48d62e4e561d1584954072; expires=Wed, 22-Apr-20 09:01:12 GMT; path=/; domain=.npmjs.org; HttpOnly; SameSite=Lax' ],
-186 silly get     'cf-ray': '5786f7673c4ee38e-SEA',
-186 silly get     age: '6604',
+186 silly get     'set-cookie': [ '__cfduid=d9326006e9c68adece1422700129e8f151584973619; expires=Wed, 22-Apr-20 14:26:59 GMT; path=/; domain=.npmjs.org; HttpOnly; SameSite=Lax' ],
+186 silly get     'cf-ray': '5788d4a06d3ac981-SEA',
+186 silly get     age: '3621',
 186 silly get     'cache-control': 'public, max-age=300',
 186 silly get     etag: 'W/"64409f180c5fe836269a137c233ef66d"',
 186 silly get     'last-modified': 'Sun, 22 Sep 2019 23:46:11 GMT',
@@ -279,174 +279,174 @@
 186 silly get     'content-encoding': 'gzip' } ]
 187 verbose get saving colors to /opt/c9/tmp/.npm/registry.npmjs.org/colors/.cache.json
 188 verbose correctMkdir /opt/c9/tmp/.npm correctMkdir not in flight; initializing
-189 silly resolveWithNewModule colors@0.6.2 checking installable status
-190 silly cache add args [ 'colors@0.6.x', null ]
-191 verbose cache add spec colors@0.6.x
+189 silly resolveWithNewModule isbinaryfile@2.0.4 checking installable status
+190 silly cache add args [ 'isbinaryfile@2.0.x', null ]
+191 verbose cache add spec isbinaryfile@2.0.x
 192 silly cache add parsed spec Result {
-192 silly cache add   raw: 'colors@0.6.x',
+192 silly cache add   raw: 'isbinaryfile@2.0.x',
 192 silly cache add   scope: null,
-192 silly cache add   escapedName: 'colors',
-192 silly cache add   name: 'colors',
-192 silly cache add   rawSpec: '0.6.x',
-192 silly cache add   spec: '>=0.6.0 <0.7.0',
+192 silly cache add   escapedName: 'isbinaryfile',
+192 silly cache add   name: 'isbinaryfile',
+192 silly cache add   rawSpec: '2.0.x',
+192 silly cache add   spec: '>=2.0.0 <2.1.0',
 192 silly cache add   type: 'range' }
-193 silly addNamed colors@>=0.6.0 <0.7.0
-194 verbose addNamed ">=0.6.0 <0.7.0" is a valid semver range for colors
-195 silly addNameRange { name: 'colors', range: '>=0.6.0 <0.7.0', hasData: false }
-196 silly mapToRegistry name colors
+193 silly addNamed isbinaryfile@>=2.0.0 <2.1.0
+194 verbose addNamed ">=2.0.0 <2.1.0" is a valid semver range for isbinaryfile
+195 silly addNameRange { name: 'isbinaryfile', range: '>=2.0.0 <2.1.0', hasData: false }
+196 silly mapToRegistry name isbinaryfile
 197 silly mapToRegistry using default registry
 198 silly mapToRegistry registry https://registry.npmjs.org/
 199 silly mapToRegistry data Result {
-199 silly mapToRegistry   raw: 'colors',
+199 silly mapToRegistry   raw: 'isbinaryfile',
 199 silly mapToRegistry   scope: null,
-199 silly mapToRegistry   escapedName: 'colors',
-199 silly mapToRegistry   name: 'colors',
+199 silly mapToRegistry   escapedName: 'isbinaryfile',
+199 silly mapToRegistry   name: 'isbinaryfile',
 199 silly mapToRegistry   rawSpec: '',
 199 silly mapToRegistry   spec: 'latest',
 199 silly mapToRegistry   type: 'tag' }
-200 silly mapToRegistry uri https://registry.npmjs.org/colors
-201 verbose addNameRange registry:https://registry.npmjs.org/colors not in flight; fetching
-202 silly resolveWithNewModule isbinaryfile@2.0.4 checking installable status
-203 silly cache add args [ 'isbinaryfile@2.0.x', null ]
-204 verbose cache add spec isbinaryfile@2.0.x
-205 silly cache add parsed spec Result {
-205 silly cache add   raw: 'isbinaryfile@2.0.x',
-205 silly cache add   scope: null,
-205 silly cache add   escapedName: 'isbinaryfile',
-205 silly cache add   name: 'isbinaryfile',
-205 silly cache add   rawSpec: '2.0.x',
-205 silly cache add   spec: '>=2.0.0 <2.1.0',
-205 silly cache add   type: 'range' }
-206 silly addNamed isbinaryfile@>=2.0.0 <2.1.0
-207 verbose addNamed ">=2.0.0 <2.1.0" is a valid semver range for isbinaryfile
-208 silly addNameRange { name: 'isbinaryfile', range: '>=2.0.0 <2.1.0', hasData: false }
-209 silly mapToRegistry name isbinaryfile
-210 silly mapToRegistry using default registry
-211 silly mapToRegistry registry https://registry.npmjs.org/
-212 silly mapToRegistry data Result {
-212 silly mapToRegistry   raw: 'isbinaryfile',
-212 silly mapToRegistry   scope: null,
-212 silly mapToRegistry   escapedName: 'isbinaryfile',
-212 silly mapToRegistry   name: 'isbinaryfile',
-212 silly mapToRegistry   rawSpec: '',
-212 silly mapToRegistry   spec: 'latest',
-212 silly mapToRegistry   type: 'tag' }
-213 silly mapToRegistry uri https://registry.npmjs.org/isbinaryfile
-214 verbose addNameRange registry:https://registry.npmjs.org/isbinaryfile not in flight; fetching
-215 verbose get https://registry.npmjs.org/colors not expired, no request
-216 silly addNameRange number 2 { name: 'colors', range: '>=0.6.0 <0.7.0', hasData: true }
-217 silly addNameRange versions [ 'colors',
-217 silly addNameRange   [ '0.3.0',
-217 silly addNameRange     '0.5.0',
-217 silly addNameRange     '0.5.1',
-217 silly addNameRange     '0.6.0',
-217 silly addNameRange     '0.6.0-1',
-217 silly addNameRange     '0.6.1',
-217 silly addNameRange     '0.6.2',
-217 silly addNameRange     '1.0.0',
-217 silly addNameRange     '1.0.1',
-217 silly addNameRange     '1.0.2',
-217 silly addNameRange     '1.0.3',
-217 silly addNameRange     '1.1.0',
-217 silly addNameRange     '1.1.1',
-217 silly addNameRange     '1.1.2',
-217 silly addNameRange     '1.2.0-rc0',
-217 silly addNameRange     '1.2.0',
-217 silly addNameRange     '1.2.1',
-217 silly addNameRange     '1.2.2',
-217 silly addNameRange     '1.2.3',
-217 silly addNameRange     '1.2.4',
-217 silly addNameRange     '1.2.5',
-217 silly addNameRange     '1.3.0',
-217 silly addNameRange     '1.3.1',
-217 silly addNameRange     '1.3.2',
-217 silly addNameRange     '1.3.3',
-217 silly addNameRange     '1.4.0' ] ]
-218 silly addNamed colors@0.6.2
-219 verbose addNamed "0.6.2" is a plain semver version for colors
-220 silly mapToRegistry name colors
-221 silly mapToRegistry using default registry
-222 silly mapToRegistry registry https://registry.npmjs.org/
-223 silly mapToRegistry data Result {
-223 silly mapToRegistry   raw: 'colors',
-223 silly mapToRegistry   scope: null,
-223 silly mapToRegistry   escapedName: 'colors',
-223 silly mapToRegistry   name: 'colors',
-223 silly mapToRegistry   rawSpec: '',
-223 silly mapToRegistry   spec: 'latest',
-223 silly mapToRegistry   type: 'tag' }
-224 silly mapToRegistry uri https://registry.npmjs.org/colors
-225 verbose addRemoteTarball https://registry.npmjs.org/colors/-/colors-0.6.2.tgz not in flight; adding
-226 verbose addRemoteTarball [ 'https://registry.npmjs.org/colors/-/colors-0.6.2.tgz',
-226 verbose addRemoteTarball   '2423fe6678ac0c5dae8852e5d0e5be08c997abcc' ]
-227 verbose get https://registry.npmjs.org/isbinaryfile not expired, no request
-228 silly addNameRange number 2 { name: 'isbinaryfile', range: '>=2.0.0 <2.1.0', hasData: true }
-229 silly addNameRange versions [ 'isbinaryfile',
-229 silly addNameRange   [ '0.1.0',
-229 silly addNameRange     '0.1.1',
-229 silly addNameRange     '0.1.2',
-229 silly addNameRange     '0.1.3',
-229 silly addNameRange     '0.1.4',
-229 silly addNameRange     '0.1.5',
-229 silly addNameRange     '0.1.6',
-229 silly addNameRange     '0.1.7',
-229 silly addNameRange     '0.1.8',
-229 silly addNameRange     '0.1.9',
+200 silly mapToRegistry uri https://registry.npmjs.org/isbinaryfile
+201 verbose addNameRange registry:https://registry.npmjs.org/isbinaryfile not in flight; fetching
+202 verbose get https://registry.npmjs.org/isbinaryfile not expired, no request
+203 silly addNameRange number 2 { name: 'isbinaryfile', range: '>=2.0.0 <2.1.0', hasData: true }
+204 silly addNameRange versions [ 'isbinaryfile',
+204 silly addNameRange   [ '0.1.0',
+204 silly addNameRange     '0.1.1',
+204 silly addNameRange     '0.1.2',
+204 silly addNameRange     '0.1.3',
+204 silly addNameRange     '0.1.4',
+204 silly addNameRange     '0.1.5',
+204 silly addNameRange     '0.1.6',
+204 silly addNameRange     '0.1.7',
+204 silly addNameRange     '0.1.8',
+204 silly addNameRange     '0.1.9',
+204 silly addNameRange     '1.0.0',
+204 silly addNameRange     '1.0.1',
+204 silly addNameRange     '2.0.0',
+204 silly addNameRange     '2.0.1',
+204 silly addNameRange     '2.0.2',
+204 silly addNameRange     '2.0.3',
+204 silly addNameRange     '2.0.4',
+204 silly addNameRange     '3.0.0',
+204 silly addNameRange     '3.0.1',
+204 silly addNameRange     '3.0.2',
+204 silly addNameRange     '3.0.3',
+204 silly addNameRange     '4.0.0-rc1',
+204 silly addNameRange     '4.0.0',
+204 silly addNameRange     '4.0.1',
+204 silly addNameRange     '4.0.2',
+204 silly addNameRange     '4.0.3',
+204 silly addNameRange     '4.0.4',
+204 silly addNameRange     '4.0.5' ] ]
+205 silly addNamed isbinaryfile@2.0.4
+206 verbose addNamed "2.0.4" is a plain semver version for isbinaryfile
+207 silly mapToRegistry name isbinaryfile
+208 silly mapToRegistry using default registry
+209 silly mapToRegistry registry https://registry.npmjs.org/
+210 silly mapToRegistry data Result {
+210 silly mapToRegistry   raw: 'isbinaryfile',
+210 silly mapToRegistry   scope: null,
+210 silly mapToRegistry   escapedName: 'isbinaryfile',
+210 silly mapToRegistry   name: 'isbinaryfile',
+210 silly mapToRegistry   rawSpec: '',
+210 silly mapToRegistry   spec: 'latest',
+210 silly mapToRegistry   type: 'tag' }
+211 silly mapToRegistry uri https://registry.npmjs.org/isbinaryfile
+212 verbose addRemoteTarball https://registry.npmjs.org/isbinaryfile/-/isbinaryfile-2.0.4.tgz not in flight; adding
+213 verbose addRemoteTarball [ 'https://registry.npmjs.org/isbinaryfile/-/isbinaryfile-2.0.4.tgz',
+213 verbose addRemoteTarball   'd23592e6a6f093efb84c2e6152056be294e414a1' ]
+214 silly resolveWithNewModule colors@0.6.2 checking installable status
+215 silly cache add args [ 'colors@0.6.x', null ]
+216 verbose cache add spec colors@0.6.x
+217 silly cache add parsed spec Result {
+217 silly cache add   raw: 'colors@0.6.x',
+217 silly cache add   scope: null,
+217 silly cache add   escapedName: 'colors',
+217 silly cache add   name: 'colors',
+217 silly cache add   rawSpec: '0.6.x',
+217 silly cache add   spec: '>=0.6.0 <0.7.0',
+217 silly cache add   type: 'range' }
+218 silly addNamed colors@>=0.6.0 <0.7.0
+219 verbose addNamed ">=0.6.0 <0.7.0" is a valid semver range for colors
+220 silly addNameRange { name: 'colors', range: '>=0.6.0 <0.7.0', hasData: false }
+221 silly mapToRegistry name colors
+222 silly mapToRegistry using default registry
+223 silly mapToRegistry registry https://registry.npmjs.org/
+224 silly mapToRegistry data Result {
+224 silly mapToRegistry   raw: 'colors',
+224 silly mapToRegistry   scope: null,
+224 silly mapToRegistry   escapedName: 'colors',
+224 silly mapToRegistry   name: 'colors',
+224 silly mapToRegistry   rawSpec: '',
+224 silly mapToRegistry   spec: 'latest',
+224 silly mapToRegistry   type: 'tag' }
+225 silly mapToRegistry uri https://registry.npmjs.org/colors
+226 verbose addNameRange registry:https://registry.npmjs.org/colors not in flight; fetching
+227 verbose get https://registry.npmjs.org/colors not expired, no request
+228 silly addNameRange number 2 { name: 'colors', range: '>=0.6.0 <0.7.0', hasData: true }
+229 silly addNameRange versions [ 'colors',
+229 silly addNameRange   [ '0.3.0',
+229 silly addNameRange     '0.5.0',
+229 silly addNameRange     '0.5.1',
+229 silly addNameRange     '0.6.0',
+229 silly addNameRange     '0.6.0-1',
+229 silly addNameRange     '0.6.1',
+229 silly addNameRange     '0.6.2',
 229 silly addNameRange     '1.0.0',
 229 silly addNameRange     '1.0.1',
-229 silly addNameRange     '2.0.0',
-229 silly addNameRange     '2.0.1',
-229 silly addNameRange     '2.0.2',
-229 silly addNameRange     '2.0.3',
-229 silly addNameRange     '2.0.4',
-229 silly addNameRange     '3.0.0',
-229 silly addNameRange     '3.0.1',
-229 silly addNameRange     '3.0.2',
-229 silly addNameRange     '3.0.3',
-229 silly addNameRange     '4.0.0-rc1',
-229 silly addNameRange     '4.0.0',
-229 silly addNameRange     '4.0.1',
-229 silly addNameRange     '4.0.2',
-229 silly addNameRange     '4.0.3',
-229 silly addNameRange     '4.0.4',
-229 silly addNameRange     '4.0.5' ] ]
-230 silly addNamed isbinaryfile@2.0.4
-231 verbose addNamed "2.0.4" is a plain semver version for isbinaryfile
-232 silly mapToRegistry name isbinaryfile
+229 silly addNameRange     '1.0.2',
+229 silly addNameRange     '1.0.3',
+229 silly addNameRange     '1.1.0',
+229 silly addNameRange     '1.1.1',
+229 silly addNameRange     '1.1.2',
+229 silly addNameRange     '1.2.0-rc0',
+229 silly addNameRange     '1.2.0',
+229 silly addNameRange     '1.2.1',
+229 silly addNameRange     '1.2.2',
+229 silly addNameRange     '1.2.3',
+229 silly addNameRange     '1.2.4',
+229 silly addNameRange     '1.2.5',
+229 silly addNameRange     '1.3.0',
+229 silly addNameRange     '1.3.1',
+229 silly addNameRange     '1.3.2',
+229 silly addNameRange     '1.3.3',
+229 silly addNameRange     '1.4.0' ] ]
+230 silly addNamed colors@0.6.2
+231 verbose addNamed "0.6.2" is a plain semver version for colors
+232 silly mapToRegistry name colors
 233 silly mapToRegistry using default registry
 234 silly mapToRegistry registry https://registry.npmjs.org/
 235 silly mapToRegistry data Result {
-235 silly mapToRegistry   raw: 'isbinaryfile',
+235 silly mapToRegistry   raw: 'colors',
 235 silly mapToRegistry   scope: null,
-235 silly mapToRegistry   escapedName: 'isbinaryfile',
-235 silly mapToRegistry   name: 'isbinaryfile',
+235 silly mapToRegistry   escapedName: 'colors',
+235 silly mapToRegistry   name: 'colors',
 235 silly mapToRegistry   rawSpec: '',
 235 silly mapToRegistry   spec: 'latest',
 235 silly mapToRegistry   type: 'tag' }
-236 silly mapToRegistry uri https://registry.npmjs.org/isbinaryfile
-237 verbose addRemoteTarball https://registry.npmjs.org/isbinaryfile/-/isbinaryfile-2.0.4.tgz not in flight; adding
-238 verbose addRemoteTarball [ 'https://registry.npmjs.org/isbinaryfile/-/isbinaryfile-2.0.4.tgz',
-238 verbose addRemoteTarball   'd23592e6a6f093efb84c2e6152056be294e414a1' ]
-239 info retry fetch attempt 1 at 9:01:12 AM
-240 info attempt registry request try #1 at 9:01:12 AM
-241 http fetch GET https://registry.npmjs.org/colors/-/colors-0.6.2.tgz
-242 info retry fetch attempt 1 at 9:01:12 AM
-243 info attempt registry request try #1 at 9:01:12 AM
-244 http fetch GET https://registry.npmjs.org/isbinaryfile/-/isbinaryfile-2.0.4.tgz
+236 silly mapToRegistry uri https://registry.npmjs.org/colors
+237 verbose addRemoteTarball https://registry.npmjs.org/colors/-/colors-0.6.2.tgz not in flight; adding
+238 verbose addRemoteTarball [ 'https://registry.npmjs.org/colors/-/colors-0.6.2.tgz',
+238 verbose addRemoteTarball   '2423fe6678ac0c5dae8852e5d0e5be08c997abcc' ]
+239 info retry fetch attempt 1 at 2:26:59 PM
+240 info attempt registry request try #1 at 2:26:59 PM
+241 http fetch GET https://registry.npmjs.org/isbinaryfile/-/isbinaryfile-2.0.4.tgz
+242 info retry fetch attempt 1 at 2:26:59 PM
+243 info attempt registry request try #1 at 2:26:59 PM
+244 http fetch GET https://registry.npmjs.org/colors/-/colors-0.6.2.tgz
 245 http fetch 200 https://registry.npmjs.org/colors/-/colors-0.6.2.tgz
 246 silly fetchAndShaCheck shasum 2423fe6678ac0c5dae8852e5d0e5be08c997abcc
-247 verbose addTmpTarball /tmp/npm-225-36bfdfee/registry.npmjs.org/colors/-/colors-0.6.2.tgz not in flight; adding
+247 verbose addTmpTarball /tmp/npm-222-06336ea6/registry.npmjs.org/colors/-/colors-0.6.2.tgz not in flight; adding
 248 verbose addTmpTarball already have metadata; skipping unpack for colors@0.6.2
 249 verbose correctMkdir /opt/c9/tmp/.npm correctMkdir not in flight; initializing
-250 silly cache afterAdd colors@0.6.2
-251 verbose afterAdd /opt/c9/tmp/.npm/colors/0.6.2/package/package.json not in flight; writing
-252 verbose correctMkdir /opt/c9/tmp/.npm correctMkdir not in flight; initializing
-253 verbose afterAdd /opt/c9/tmp/.npm/colors/0.6.2/package/package.json written
-254 http fetch 200 https://registry.npmjs.org/isbinaryfile/-/isbinaryfile-2.0.4.tgz
-255 silly fetchAndShaCheck shasum d23592e6a6f093efb84c2e6152056be294e414a1
-256 verbose addTmpTarball /tmp/npm-225-36bfdfee/registry.npmjs.org/isbinaryfile/-/isbinaryfile-2.0.4.tgz not in flight; adding
-257 verbose addTmpTarball already have metadata; skipping unpack for isbinaryfile@2.0.4
-258 verbose correctMkdir /opt/c9/tmp/.npm correctMkdir not in flight; initializing
+250 http fetch 200 https://registry.npmjs.org/isbinaryfile/-/isbinaryfile-2.0.4.tgz
+251 silly fetchAndShaCheck shasum d23592e6a6f093efb84c2e6152056be294e414a1
+252 verbose addTmpTarball /tmp/npm-222-06336ea6/registry.npmjs.org/isbinaryfile/-/isbinaryfile-2.0.4.tgz not in flight; adding
+253 verbose addTmpTarball already have metadata; skipping unpack for isbinaryfile@2.0.4
+254 verbose correctMkdir /opt/c9/tmp/.npm correctMkdir not in flight; initializing
+255 silly cache afterAdd colors@0.6.2
+256 verbose afterAdd /opt/c9/tmp/.npm/colors/0.6.2/package/package.json not in flight; writing
+257 verbose correctMkdir /opt/c9/tmp/.npm correctMkdir not in flight; initializing
+258 verbose afterAdd /opt/c9/tmp/.npm/colors/0.6.2/package/package.json written
 259 silly cache afterAdd isbinaryfile@2.0.4
 260 verbose afterAdd /opt/c9/tmp/.npm/isbinaryfile/2.0.4/package/package.json not in flight; writing
 261 verbose correctMkdir /opt/c9/tmp/.npm correctMkdir not in flight; initializing
