@@ -424,3 +424,96 @@ git
 git add -a
 git add -A
 git status 
+git commit -am "plurality"
+git push --set-upstream https://github.com/dennisberg13100/cs50.git master
+cd
+cd pset3/
+mkdir runoff
+cd runoff/
+wget https://cdn.cs50.net/2019/fall/psets/3/runoff/runoff.c
+ls
+clear
+make runoff
+./runoff Alice Bob Charlie
+make runoff
+./runoff Alice Bob Charlie
+make runoff
+make runoff
+./runoff Alice Bob Charlie
+make runoff
+make runoff
+./runoff Alice Bob Charlie
+./runoff Alice Bob Charlie
+make runoff
+./runoff Alice Bob Charlie
+./runoff Alice Bob Charlie
+./runoff Alice Bob Charlie
+./runoff Alice Bob Charlie
+make runoff
+make runoff
+./runoff Alice Bob Charlie
+make runoff
+./runoff Alice Bob Charlie
+make runoff
+./runoff Alice Bob Charlie
+make runoff
+./runoff Alice Bob Charlie
+make runoff
+cd pset3/
+cd runoff/
+make runoff
+make runoff
+./runoff Alice Bob Charlie
+clear
+make runoff
+make runoff
+./runoff Alice Bob Charlie
+./runoff Alice Bob Charlie
+make runoff
+./runoff Alice Bob Charlie
+make runoff
+./runoff A B C
+make runoff
+make runoff
+make runoff
+./runoff A B C
+make runoff
+./runoff A B C
+./runoff A B C
+make runoff
+./runoff A B C
+A
+./runoff A B C
+make runoff
+make runoff
+./runoff A B C
+make runoff
+./runoff A B C
+./runoff A B C
+make runoff
+./runoff A B C
+./runoff A B C
+./runoff A B C
+A
+./runoff A B C
+make runoff
+./runoff A B C
+make runoff
+./runoff A B C
+./runoff A B C
+make runoff
+make runoff
+check50 cs50/problems/2020/x/runoff
+make runoff
+check50 cs50/problems/2020/x/runoff
+make runoff
+check50 cs50/problems/2020/x/runoff
+style50 runoff.c
+style50 runoff.c
+submit50 cs50/problems/2020/x/runoff
+clear
+git status 
+cd
+git status 
+git add -A
+git status 
