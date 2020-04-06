@@ -1,357 +1,3 @@
-make numbers
-make numbers
-make numbers
-./numbers
-make names
-make names
-clear
-make names
-./names
-./names
-./names
-clear
-make names
-./names
-make names
-./names
-clear
-make phoneBook
-./phoneBook 
-make names
-./names
-clear
-make phoneBook
-./phoneBook
-make phoneBook 
-./phoneBook 
-clear
-git .push
-git add
-git init 
-git add -All
-git add -A
-git commit -ma "Test"
-git commit 
-git commit -am "Test"
-git status
-git commit -a 
-git config -global user.name "Dennis van den Berg"
-git config --global user.name "Dennis van den Berg"
-git config --global user.email "dennisvandenberg13100@gmail.com"
-git config list
-git config -list
-git config --list
-clear
-git commit -am "Test"
-git push 
-git push https://github.com/me50/dennisberg13100.git
-git push --set-upstream https://github.com/me50/dennisberg13100.git master
-mtbvdb1027
-git push --set-upstream https://github.com/me50/dennisberg13100.git master
-git pull https://github.com/me50/dennisberg13100.git
-git push --set-upstream https://github.com/me50/dennisberg13100.git master
-rm Untitled1 
-make iteration
-make iteraction 
-./iteraction 
-clear
-make recurcion
-make recursion
-make recursion
-make recursion
-./recursion
-cd
-mkdir readability
-cd readability/
-open readebility.c
-make readebility 
-make readebility 
-./readebility 
-clear
-make readebility 
-clear
-make readebility 
-clear
-make readebility
-make readebility 
-cs50 make readebility
-helpcs50 make readebility
-help
-cs50
-help cs50
-clear
-make readebility 
-make readebility 
-make readebility 
-make readebility 
-./readebility 
-make readebility 
-clear
-./readebility 
-make readebility 
-./readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-make readebility 
-./readebility 
-make readebility 
-clear
-make readebility 
-./readebility 
-make readebility 
-help50 make readebility
-help50 make readebility
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-make readebility 
-./readebility 
-make readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-Would you like them here or there? I would not like them here or there. I would not like them anywhere.
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make recursion 
-cd readability/
-make readebility 
-./readebility 
-make readebility 
-make readebility 
-make readebility 
-make readebility 
-make readebility 
-help50 make readebility
-help50 make readebility
-make readebility 
-help50 make readebility
-help50 make readebility
-help50 make readebility
-help50 make readebility
-help50 make readebility
-help50 make readebility
-help50 make readebility
-make readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-./readebility 
-./readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-./readebility 
-./readebility 
-make readebility 
-./readebility 
-make readebility 
-make readebility 
-./readebility 
-./readebility 
-./readebility 
-./readebility 
-make readebility 
-make readebility 
-./readebility 
-./readebility 
-There are more things in Heaven and Earth, Horatio, than are dreamt of in your philosophy.
-./readebility 
-check50 cs50/problems/2020/x/readability
-make readability
-./readability
-check50 cs50/problems/2020/x/readability
-check50 cs50/problems/2020/x/readability
-style50 readability.c
-style50 readability.c
-submit50 cs50/problems/2020/x/readability
-cd
-mkdir
-mkdir caesar
-cd caesar/
-make caesar 
-help50 make caesar
-make caesar 
-make caesar 
-make caesar 
-help50 make caeser
-help50 make caesar
-make caesar 
-./caesar 2
-make caesar 
-./caesar 2
-make caesar 
-help50 make caesar
-make caesar 
-./caesar 23
-make caesar 
-./caesar 23
-make caesar 
-help50 make caesar
-make casear
-make caesar
-./caesar 2
-make caesar
-./caesar 2
-make caesar
-make caesar
-make caesar
-./caesar 2
-make caesar
-make caesar
-./caesar 2
-./caesar a
-make caesar
-make caesar
-./caesar 2
-make caesar
-./caesar 2
-make caesar
-./caesar 2
-make caesar
-./caesar 2
-make caesar
-make caesar
-make caesar
-make caesar
-./caesar 2
-./caesar 222
-make caesar
-./caesar 222
-make caesar
-./caesar 222
-make caesar
-./caesar 222
-./caesar 2sz3
-make caesar
-./caesar 2sz3
-make caesar
-./caesar 2
-./caesar 2a
-make caesar
-./caesar 2a
-./caesar 2
-make caesar
-./caesar 2
-./caesar 2a
-./caesar
-./caesar 1 2 3
-make caesar
-./caesar 1 2 3
-make caesar
-make caesar
-./caesar 22
-make caesar
-./caesar 22
-./caesar 22
-make caesar
-./caesar 22
-make caesar
-make caesar
-./caesar 2
-make caesar
-make caesar
-./caesar 2
-make caesar
-make caesar
-./caesar 2
-make caesar
-./caesar 2
-make caesar
-./caesar 2
-make caesar
-./caesar 2
-make caesar
-make caesar
-./caesar 2
-make caesar
-./caesar 2
-make caesar
-make caesar
-./caesar 2
-make caesar
-./caesar 2
-make caesar
-./caesar 2
-make caesar
-./caesar 2
-./caesar 2
-make caesar
-make caesar
-./caesar 2
-make caesar
-check50 cs50/problems/2020/x/caesar
-style50 caesar.c
-check50 cs50/problems/2020/x/caesar
-style50 caesar.c
-style50 caesar.c
-make caesar
-style50 caesar.c
-submit50 cs50/problems/2020/x/caesar
-clear
-cd
-mkdir pset3
-cd pset3
-mkdir plurality
-cd plurality
-wget https://cdn.cs50.net/2019/fall/psets/3/plurality/plurality.c
-ls
 cd pset3/plurality
 make plurality 
 ./plurality 
@@ -515,5 +161,352 @@ clear
 git status 
 cd
 git status 
+git add -A
+git status 
+git commit -am "Runoff completed with success"
+git push https://github.com/dennisberg13100/cs50.git
+cd
+make adress
+./adress
+make adress
+make adress
+./adress
+make adress
+make adress
+./adress
+make adress
+make adress
+make adress
+./adress
+make adress
+./adress
+make adress
+./adress
+clear
+make compair
+make compair
+./compair
+./compair
+./compair
+make compair
+./compair
+make copy
+make copy
+make copy
+make copy
+./copy
+./copy
+make copy
+./copy
+make copy
+./copy
+make copy
+./copy
+make copy
+./copy
+make copy
+./copy
+valgrind ./copy
+make copy
+valgrind ./copy
+make swap
+./swap
+make swap
+./swap
+make scanf
+./scanf
+clear
+cd
+mkdir pset4
+cd pset4
+wget https://cdn.cs50.net/2019/fall/psets/4/filter/less/filter.zip
+unzip filter.zip 
+clear
+rm filter.zip 
+cd pset4
+cd filter/
+make filter
+./filter -g images/yard.bmp out.bmp
+make filter
+make filter
+./filter -g images/yard.bmp out.bmp
+clear
+clear
+clear
+cls
+make filter
+make filter
+./filter -g images/yard.bmp out.bmp
+make filter
+./filter -g images/yard.bmp out.bmp
+cd pset4
+cd
+cd pset4
+wget https://cdn.cs50.net/2019/fall/psets/4/filter/more/filter.zip
+unzip filter.zip
+rm filter.zip
+cd filter
+make filter
+make filter
+make filter
+$ ./filter -g images/yard.bmp out.bmp
+make filter
+$ ./filter -g images/yard.bmp out.bmp
+./filter
+./filter -g images/yard.bmp out.bmp
+./filter
+make filter
+make filter
+./filter -r images/yard.bmp out.bmp
+./filter -r images/yard.bmp out.bmp
+check50 cs50/problems/2020/x/filter/more
+make filter
+check50 cs50/problems/2020/x/filter/more
+make filter
+./filter -r images/yard.bmp out.bmp
+./filter -r images/tower.bmp out.bmp
+make filter
+help50 make filter
+help50 make filter
+help50 make filter
+help50 make filter
+help50 make filter
+cd pset4
+cd filter
+make filter
+./filter -r images/yard.bmp out.bmp
+make filter
+make filter
+./filter -r images/yard.bmp out.bmp
+check50 cs50/problems/2020/x/filter/more
+./filter -r images/tower.bmp out.bmp
+make filter
+./filter -r images/tower.bmp out.bmp
+make filter
+./filter -r images/tower.bmp out.bmp
+make filter
+./filter -r images/tower.bmp out.bmp
+check50 cs50/problems/2020/x/filter/more
+clear
+make filter
+./filter -r images/tower.bmp out.bmp
+check50 cs50/problems/2020/x/filter/more
+make filter
+cd pset4/filter/
+make filter
+help50 make filter
+make filter
+make filter
+./filter -b images/yard.bmp out.bmp
+make filter
+./filter -b images/yard.bmp out.bmp
+make filter
+./filter -b images/yard.bmp out.bmp
+make filter
+./filter -b images/yard.bmp out.bmp
+check50 cs50/problems/2020/x/filter/more
+check50 cs50/problems/2020/x/filter/more
+check50 cs50/problems/2020/x/filter/more
+./filter -b images/yard.bmp out.bmp
+make filter
+./filter -b images/yard.bmp out.bmp
+make filter
+./filter -b images/yard.bmp out.bmp
+make filter
+./filter -b images/yard.bmp out.bmp
+make filter
+./filter -b images/yard.bmp out.bmp
+make filter
+make filter
+./filter -b images/yard.bmp out.bmp
+make filter
+./filter -b images/yard.bmp out.bmp
+clear
+./filter -b images/yard.bmp out.bmp
+./filter -b images/yard.bmp out.bmp
+./filter -b images/yard.bmp out.bmp
+clear
+make filter
+./filter -b images/yard.bmp out.bmp
+make filter
+./filter -b images/yard.bmp out.bmp
+make filter
+./filter -b images/yard.bmp out.bmp
+make filter
+./filter -b images/yard.bmp out.bmp
+make filter
+./filter -b images/tower.bmp out.bmp
+./filter -b images/test.bmp out.bmp
+cd pset4/filter
+./filter -b images/test.bmp out.bmp
+mak filter
+make filter
+./filter -b images/test.bmp out.bmp
+make filter
+./filter -b images/test.bmp out.bmp
+make filter
+./filter -b images/test.bmp out.bmp
+make filter
+make filter
+make filter
+./filter -b images/test.bmp out.bmp
+make filter
+make filter
+./filter -b images/test.bmp out.bmp
+make filter
+./filter -b images/test.bmp out.bmp
+make filter
+./filter -b images/test.bmp out.bmp
+make filter
+./filter -b images/test.bmp out.bmp
+make filter
+./filter -b images/test.bmp out.bmp
+make filter
+./filter -b images/test.bmp out.bmp
+make filter
+./filter -b images/test.bmp out.bmp
+make filter
+./filter -b images/test.bmp out.bmp
+check50 cs50/problems/2020/x/filter/more
+cd pset4/filter
+./filter -b images/test.bmp out.bmp
+cd pset4/filter
+make filter
+make filter
+filter
+make filter
+make filter
+make filter
+make filter
+make filter
+make filter
+./filter -b images/test.bmp out.bmp
+check50 cs50/problems/2020/x/filter/more
+make filter
+check50 cs50/problems/2020/x/filter/more
+make filter
+check50 cs50/problems/2020/x/filter/more
+make filter
+./filter -b images/test.bmp out.bmp
+make filter
+./filter -b images/test.bmp out.bmp
+check50 cs50/problems/2020/x/filter/more
+make filter
+check50 cs50/problems/2020/x/filter/more
+make filter
+make filter
+./filter -b images/test.bmp out.bmp
+check50 cs50/problems/2020/x/filter/more
+cd pset4/filter
+./filter -b images/9px.bmp out.bmp
+check50 cs50/problems/2020/x/filter/more
+make filter
+make filter
+./filter -b images/9px.bmp out.bmp
+make filter
+./filter -b images/9px.bmp out.bmp
+check50 cs50/problems/2020/x/filter/more
+make filter
+check50 cs50/problems/2020/x/filter/more
+make filter
+check50 cs50/problems/2020/x/filter/more
+make filter
+check50 cs50/problems/2020/x/filter/more
+make filter
+check50 cs50/problems/2020/x/filter/more
+pset4
+cd pset4
+cd filter
+male filter
+make filter
+make filter
+make filter
+make filter
+./filter -e images/test.bmp out.bmp
+make filter
+./filter -e images/test.bmp out.bmp
+make filter
+./filter -e images/test.bmp out.bmp
+make filter
+./filter -e images/test.bmp out.bmp
+make filter
+make filter
+./filter -e images/test.bmp out.bmp
+make filter
+./filter -e images/test.bmp out.bmp
+cd pset4/filter
+make filter
+make filter
+make filter
+make filter
+./filter -e images/test.bmp out.bmp
+make filter
+./filter -e images/test.bmp out.bmp
+make filter
+./filter -e images/test.bmp out.bmp
+make filter
+./filter -e images/test.bmp out.bmp
+make filter
+make filter
+./filter -e images/test.bmp out.bmp
+make filter
+./filter -e images/test.bmp out.bmp
+make filter
+./filter -e images/test.bmp out.bmp
+clear
+make filter
+./filter -e images/tower.bmp out.bmp
+./filter -e images/tower.bmp out.bmp
+./filter -e images/yard.bmp out.bmp
+make filter
+./filter -e images/yard.bmp out.bmp
+check50 cs50/problems/2020/x/filter/more
+style50
+style50 helpers.c
+style50 helpers.c
+style50 helpers.c
+style50 helpers.c
+check50 cs50/problems/2020/x/filter/more
+submit50 cs50/problems/2020/x/filter/more
+cd ../
+wget https://cdn.cs50.net/2019/fall/psets/4/recover/recover.zip
+unzip recover.zip
+rm recover.zip
+clear
+cd recover
+make recover
+make recover 
+./recover teste
+make recover 
+make recover 
+./recover teste
+./recover
+make recover 
+make recover 
+make recover 
+./recover test
+make recover 
+./recover test
+./recover
+make recover 
+make recover 
+make recover 
+make recover 
+./recover test
+./recover card.raw
+make recover 
+make recover 
+./recover card.raw
+make recover 
+cd pset/recover
+cd pset4/recover
+make recover
+make recover
+make recover
+make recover
+./recover card.raw
+./recover card.raw
+make recover
+cd
 git add -A
 git status 
