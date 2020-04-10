@@ -1,226 +1,3 @@
-cd pset3/plurality
-make plurality 
-./plurality 
-./plurality Dennis Laura 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-help50 make plurality
-make plurality 
-make plurality 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-./plurality Dennis Laura 
-./plurality Dennis Laura 
-make plurality 
-./plurality Dennis Laura 
-./plurality Dennis Laura 
-check50 cs50/problems/2020/x/plurality
-make plurality 
-check50 cs50/problems/2020/x/plurality
-style50 plurality.c
-style50 plurality.c
-check50 cs50/problems/2020/x/plurality
-submit50 cs50/problems/2020/x/plurality
-cd
-git status
-git commit -am "plurality done"
-git push https://github.com/dennisberg13100/cs50.git
-git push --set-upstream https://github.com/dennisberg13100/cs50.git master
-git status
-git add
-git add -A
-git
-git add -a
-git add -A
-git status 
-git commit -am "plurality"
-git push --set-upstream https://github.com/dennisberg13100/cs50.git master
-cd
-cd pset3/
-mkdir runoff
-cd runoff/
-wget https://cdn.cs50.net/2019/fall/psets/3/runoff/runoff.c
-ls
-clear
-make runoff
-./runoff Alice Bob Charlie
-make runoff
-./runoff Alice Bob Charlie
-make runoff
-make runoff
-./runoff Alice Bob Charlie
-make runoff
-make runoff
-./runoff Alice Bob Charlie
-./runoff Alice Bob Charlie
-make runoff
-./runoff Alice Bob Charlie
-./runoff Alice Bob Charlie
-./runoff Alice Bob Charlie
-./runoff Alice Bob Charlie
-make runoff
-make runoff
-./runoff Alice Bob Charlie
-make runoff
-./runoff Alice Bob Charlie
-make runoff
-./runoff Alice Bob Charlie
-make runoff
-./runoff Alice Bob Charlie
-make runoff
-cd pset3/
-cd runoff/
-make runoff
-make runoff
-./runoff Alice Bob Charlie
-clear
-make runoff
-make runoff
-./runoff Alice Bob Charlie
-./runoff Alice Bob Charlie
-make runoff
-./runoff Alice Bob Charlie
-make runoff
-./runoff A B C
-make runoff
-make runoff
-make runoff
-./runoff A B C
-make runoff
-./runoff A B C
-./runoff A B C
-make runoff
-./runoff A B C
-A
-./runoff A B C
-make runoff
-make runoff
-./runoff A B C
-make runoff
-./runoff A B C
-./runoff A B C
-make runoff
-./runoff A B C
-./runoff A B C
-./runoff A B C
-A
-./runoff A B C
-make runoff
-./runoff A B C
-make runoff
-./runoff A B C
-./runoff A B C
-make runoff
-make runoff
-check50 cs50/problems/2020/x/runoff
-make runoff
-check50 cs50/problems/2020/x/runoff
-make runoff
-check50 cs50/problems/2020/x/runoff
-style50 runoff.c
-style50 runoff.c
-submit50 cs50/problems/2020/x/runoff
-clear
-git status 
-cd
-git status 
-git add -A
-git status 
-git commit -am "Runoff completed with success"
-git push https://github.com/dennisberg13100/cs50.git
-cd
-make adress
-./adress
-make adress
-make adress
-./adress
-make adress
-make adress
-./adress
-make adress
-make adress
-make adress
-./adress
-make adress
-./adress
-make adress
-./adress
-clear
-make compair
-make compair
-./compair
-./compair
-./compair
-make compair
-./compair
-make copy
-make copy
-make copy
-make copy
-./copy
-./copy
-make copy
-./copy
-make copy
-./copy
-make copy
-./copy
-make copy
-./copy
-make copy
-./copy
-valgrind ./copy
-make copy
-valgrind ./copy
-make swap
-./swap
-make swap
-./swap
-make scanf
-./scanf
-clear
-cd
-mkdir pset4
-cd pset4
-wget https://cdn.cs50.net/2019/fall/psets/4/filter/less/filter.zip
-unzip filter.zip 
 clear
 rm filter.zip 
 cd pset4
@@ -510,3 +287,216 @@ make recover
 cd
 git add -A
 git status 
+git commit -am "Filter more completed with success"
+git push https://github.com/dennisberg13100/cs50.git
+cd pset4/recover
+make recover
+./recover card.raw
+make recover
+./recover card.raw
+make recover
+make recover
+./recover card.raw
+make recover
+make recover
+./recover card.raw
+make recover
+./recover card.raw
+make recover
+pset4/recover
+cd pset4/recover
+make recover
+cd pset4/recover
+make recover
+./recover text.txt
+make recover
+./recover text.txt
+make recover
+make recover
+./recover card.raw
+cd pset4/recover
+./recover text.txt
+make recover
+./recover text.txt
+./recover card.raw
+make recover
+make recover
+clear
+top
+clear
+make recover
+make recover
+./recover card.raw
+make recover
+./recover card.raw
+make recover
+./recover card.raw
+make recover
+make recover
+make recover
+make recover
+./recover text.txt
+./recover card.raw
+clear
+check50 cs50/problems/2020/x/recover
+make recover
+make recover
+./recover text.txt
+make recover
+./recover text.txt
+make recover
+make recover
+./recover text.txt
+./recover card.raw
+make recover
+./recover card.raw
+make recover
+./recover text.txt
+./recover card.raw
+make recover
+./recover card.raw
+./recover text.txt
+make recover
+./recover text.txt
+./recover card.raw
+clear
+make recover
+./recover card.raw
+make recover
+./recover card.raw
+./recover text.txt
+make recover
+make recover
+./recover text.txt
+make recover
+./recover text.txt
+make recover
+make recover
+./recover text.txt
+make recover
+./recover text.txt
+./recover text.txt
+make recover
+./recover text.txt
+make recover
+./recover text.txt
+./recover card.raw
+make recover
+help50 make recover
+make recover
+make recover
+./recover text.txt
+./recover card.raw
+make recover
+make recover
+./recover card.raw
+make recover
+./recover card.raw
+clear
+make recover
+./recover card.raw
+make recover
+./recover card.raw
+make recover
+make recover
+make recover
+./recover card.raw
+./recover card.raw
+clear
+./recover card.raw
+./recover card.raw
+make recover
+./recover card.raw
+clear
+make recover
+./recover card.raw
+make recover
+make recover
+./recover card.raw
+make recover
+make recover
+./recover card.raw
+./recover card.raw
+make recover
+./recover card.raw
+make recover
+./recover card.raw
+make recover
+make recover
+make recover
+./recover card.raw
+make recover
+make recover
+./recover card.raw
+help50 ./recover card.raw
+make recover
+help50 ./recover card.raw
+./recover card.raw
+make recover
+./recover card.raw
+make recover
+make recover
+./recover card.raw
+make recover
+make recover
+make recover
+make recover
+./recover card.raw
+check50 cs50/problems/2020/x/recover
+make recover
+./recover card.raw
+make recover
+./recover card.raw
+check50 cs50/problems/2020/x/recover
+make recover
+./recover card.raw
+check50 cs50/problems/2020/x/recover
+make recover
+check50 cs50/problems/2020/x/recover
+make recover
+check50 cs50/problems/2020/x/recover
+./recover card.raw
+make recover
+check50 cs50/problems/2020/x/recover
+make recover
+check50 cs50/problems/2020/x/recover
+cd pset4/recover
+./recover card.raw
+check50 cs50/problems/2020/x/recover
+make recover
+check50 cs50/problems/2020/x/recover
+make recover
+check50 cs50/problems/2020/x/recover
+make teste
+make teste
+./teste card.raw
+make recover
+check50 cs50/problems/2020/x/recover
+make recover
+check50 cs50/problems/2020/x/recover
+make recover
+make recover
+./recover card.raw
+make recover
+./recover card.raw
+check50 cs50/problems/2020/x/recover
+style50 recover.c
+style50 recover.c
+style50 recover.c
+check50 cs50/problems/2020/x/recover
+make recover
+check50 cs50/problems/2020/x/recover
+submit50 cs50/problems/2020/x/recover
+cd
+make list
+make list
+./list
+make list
+make list
+help50 make list
+make list
+help50 make list
+make list
+./list
+git add -A
+git status
