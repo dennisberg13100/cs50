@@ -1,60 +1,3 @@
-clear
-rm filter.zip 
-cd pset4
-cd filter/
-make filter
-./filter -g images/yard.bmp out.bmp
-make filter
-make filter
-./filter -g images/yard.bmp out.bmp
-clear
-clear
-clear
-cls
-make filter
-make filter
-./filter -g images/yard.bmp out.bmp
-make filter
-./filter -g images/yard.bmp out.bmp
-cd pset4
-cd
-cd pset4
-wget https://cdn.cs50.net/2019/fall/psets/4/filter/more/filter.zip
-unzip filter.zip
-rm filter.zip
-cd filter
-make filter
-make filter
-make filter
-$ ./filter -g images/yard.bmp out.bmp
-make filter
-$ ./filter -g images/yard.bmp out.bmp
-./filter
-./filter -g images/yard.bmp out.bmp
-./filter
-make filter
-make filter
-./filter -r images/yard.bmp out.bmp
-./filter -r images/yard.bmp out.bmp
-check50 cs50/problems/2020/x/filter/more
-make filter
-check50 cs50/problems/2020/x/filter/more
-make filter
-./filter -r images/yard.bmp out.bmp
-./filter -r images/tower.bmp out.bmp
-make filter
-help50 make filter
-help50 make filter
-help50 make filter
-help50 make filter
-help50 make filter
-cd pset4
-cd filter
-make filter
-./filter -r images/yard.bmp out.bmp
-make filter
-make filter
-./filter -r images/yard.bmp out.bmp
 check50 cs50/problems/2020/x/filter/more
 ./filter -r images/tower.bmp out.bmp
 make filter
@@ -500,3 +443,118 @@ make list
 ./list
 git add -A
 git status
+git commit -am"Recover completed with success"
+git push https://github.com/dennisberg13100/cs50.git
+mkdir pset5
+ls
+cd pset5
+wget https://cdn.cs50.net/2019/fall/psets/5/speller/speller.zip
+unzip speller.zip
+rm speller.zip
+ls
+cd speller
+ls
+make speller
+make speller
+make speller
+make speller
+make speller
+./speller texts/lalaland.txt
+make speller
+make speller
+./speller texts/lalaland.txt
+make speller
+./speller texts/lalaland.txt
+clear
+make speller
+make speller
+make speller
+./speller texts/lalaland.txt
+./speller texts/lalaland.txt
+./speller dictionaries/small texts/cat.txt
+make speller
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+make speller
+make speller
+make speller
+help50 make speller
+make speller
+make speller
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+make speller
+./speller dictionaries/small texts/cat.txt
+cd week 5
+cd week\ 5/
+make singleLinkedList 
+make singleLinkedList 
+make singleLinkedList 
+cd pset5
+cd speller
+cd pset5/speller
+make speller
+./speller
+./speller dictionaries/small texts/cat.txt
+make speller
+make speller
+make speller
+make speller
+make speller
+make speller
+make speller
+help50 make speller
+make speller
+make speller
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+make speller
+make speller
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+make speller
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+make speller
+make speller
+make speller
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+./speller dictionaries/small texts/cat.txt
+make speller
+make speller
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+./speller dictionaries/large texts/cat.txt
+cd
