@@ -558,3 +558,6 @@ make speller
 ./speller dictionaries/small texts/cat.txt
 ./speller dictionaries/large texts/cat.txt
 cd
+git commit -am "singly linked-list from pset 5 completed"
+git status 
+git add -A
