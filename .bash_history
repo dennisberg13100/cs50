@@ -1,181 +1,3 @@
-check50 cs50/problems/2020/x/filter/more
-./filter -r images/tower.bmp out.bmp
-make filter
-./filter -r images/tower.bmp out.bmp
-make filter
-./filter -r images/tower.bmp out.bmp
-make filter
-./filter -r images/tower.bmp out.bmp
-check50 cs50/problems/2020/x/filter/more
-clear
-make filter
-./filter -r images/tower.bmp out.bmp
-check50 cs50/problems/2020/x/filter/more
-make filter
-cd pset4/filter/
-make filter
-help50 make filter
-make filter
-make filter
-./filter -b images/yard.bmp out.bmp
-make filter
-./filter -b images/yard.bmp out.bmp
-make filter
-./filter -b images/yard.bmp out.bmp
-make filter
-./filter -b images/yard.bmp out.bmp
-check50 cs50/problems/2020/x/filter/more
-check50 cs50/problems/2020/x/filter/more
-check50 cs50/problems/2020/x/filter/more
-./filter -b images/yard.bmp out.bmp
-make filter
-./filter -b images/yard.bmp out.bmp
-make filter
-./filter -b images/yard.bmp out.bmp
-make filter
-./filter -b images/yard.bmp out.bmp
-make filter
-./filter -b images/yard.bmp out.bmp
-make filter
-make filter
-./filter -b images/yard.bmp out.bmp
-make filter
-./filter -b images/yard.bmp out.bmp
-clear
-./filter -b images/yard.bmp out.bmp
-./filter -b images/yard.bmp out.bmp
-./filter -b images/yard.bmp out.bmp
-clear
-make filter
-./filter -b images/yard.bmp out.bmp
-make filter
-./filter -b images/yard.bmp out.bmp
-make filter
-./filter -b images/yard.bmp out.bmp
-make filter
-./filter -b images/yard.bmp out.bmp
-make filter
-./filter -b images/tower.bmp out.bmp
-./filter -b images/test.bmp out.bmp
-cd pset4/filter
-./filter -b images/test.bmp out.bmp
-mak filter
-make filter
-./filter -b images/test.bmp out.bmp
-make filter
-./filter -b images/test.bmp out.bmp
-make filter
-./filter -b images/test.bmp out.bmp
-make filter
-make filter
-make filter
-./filter -b images/test.bmp out.bmp
-make filter
-make filter
-./filter -b images/test.bmp out.bmp
-make filter
-./filter -b images/test.bmp out.bmp
-make filter
-./filter -b images/test.bmp out.bmp
-make filter
-./filter -b images/test.bmp out.bmp
-make filter
-./filter -b images/test.bmp out.bmp
-make filter
-./filter -b images/test.bmp out.bmp
-make filter
-./filter -b images/test.bmp out.bmp
-make filter
-./filter -b images/test.bmp out.bmp
-check50 cs50/problems/2020/x/filter/more
-cd pset4/filter
-./filter -b images/test.bmp out.bmp
-cd pset4/filter
-make filter
-make filter
-filter
-make filter
-make filter
-make filter
-make filter
-make filter
-make filter
-./filter -b images/test.bmp out.bmp
-check50 cs50/problems/2020/x/filter/more
-make filter
-check50 cs50/problems/2020/x/filter/more
-make filter
-check50 cs50/problems/2020/x/filter/more
-make filter
-./filter -b images/test.bmp out.bmp
-make filter
-./filter -b images/test.bmp out.bmp
-check50 cs50/problems/2020/x/filter/more
-make filter
-check50 cs50/problems/2020/x/filter/more
-make filter
-make filter
-./filter -b images/test.bmp out.bmp
-check50 cs50/problems/2020/x/filter/more
-cd pset4/filter
-./filter -b images/9px.bmp out.bmp
-check50 cs50/problems/2020/x/filter/more
-make filter
-make filter
-./filter -b images/9px.bmp out.bmp
-make filter
-./filter -b images/9px.bmp out.bmp
-check50 cs50/problems/2020/x/filter/more
-make filter
-check50 cs50/problems/2020/x/filter/more
-make filter
-check50 cs50/problems/2020/x/filter/more
-make filter
-check50 cs50/problems/2020/x/filter/more
-make filter
-check50 cs50/problems/2020/x/filter/more
-pset4
-cd pset4
-cd filter
-male filter
-make filter
-make filter
-make filter
-make filter
-./filter -e images/test.bmp out.bmp
-make filter
-./filter -e images/test.bmp out.bmp
-make filter
-./filter -e images/test.bmp out.bmp
-make filter
-./filter -e images/test.bmp out.bmp
-make filter
-make filter
-./filter -e images/test.bmp out.bmp
-make filter
-./filter -e images/test.bmp out.bmp
-cd pset4/filter
-make filter
-make filter
-make filter
-make filter
-./filter -e images/test.bmp out.bmp
-make filter
-./filter -e images/test.bmp out.bmp
-make filter
-./filter -e images/test.bmp out.bmp
-make filter
-./filter -e images/test.bmp out.bmp
-make filter
-make filter
-./filter -e images/test.bmp out.bmp
-make filter
-./filter -e images/test.bmp out.bmp
-make filter
-./filter -e images/test.bmp out.bmp
-clear
-make filter
-./filter -e images/tower.bmp out.bmp
 ./filter -e images/tower.bmp out.bmp
 ./filter -e images/yard.bmp out.bmp
 make filter
@@ -561,3 +383,120 @@ cd
 git commit -am "singly linked-list from pset 5 completed"
 git status 
 git add -A
+git commit -am "singly linked list from pset 5 completed with success"
+git push https://github.com/dennisberg13100/cs50.git
+cd pset5/speller
+./speller dictionaries/large texts/cat.txt
+cd pset5/speller
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make hash.c
+make hash
+make hash
+./hash
+make hash
+./hash
+make hash
+make hash
+./hash
+./hash
+cachorro 
+./hash
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+./hash
+make hash
+./hash
+caterpillar
+./hash
+make speller
+./speller dictionaries/small texts/cat.txt
+make hash
+make hash
+./hash
+make speller
+make speller
+make speller
+make speller
+make speller
+make speller
+make speller
+make speller
+make speller
+make speller
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+make speller
+make speller
+./speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+check50 cs50/problems/2020/x/speller
+valgrid ./speller 
+valgrind ./speller
+valgrind speller texts/lalaland.txt
+valgrind ./speller texts/lalaland.txt
+make speller
+check50 cs50/problems/2020/x/speller
+make speller
+make speller
+check50 cs50/problems/2020/x/speller
+./speller texts/lalaland.txt
+~cs50/2019/fall/pset5/speller texts/lalaland.txt
+make speller
+./speller texts/lalaland.txt
+make speller
+./speller texts/lalaland.txt
+make speller
+./speller texts/lalaland.txt
+make speller
+./speller texts/lalaland.txt
+make speller
+./speller texts/lalaland.txt
+make speller
+./speller texts/lalaland.txt
+make speller
+./speller texts/lalaland.txt
+make speller
+style50 dictionary.c
+style50 dictionary.c
+style50 dictionary.c
+check50 cs50/problems/2020/x/speller
+submit50 cs50/problems/2020/x/speller
+$ submit50 cs50/problems/2020/x/challenges/speller
+cd
+$ submit50 cs50/problems/2020/x/challenges/speller
+submit50 cs50/problems/2020/x/challenges/speller
+cd pset5/speller
+submit50 cs50/problems/2020/x/challenges/speller
+git add -A
+git status 

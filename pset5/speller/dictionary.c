@@ -4,6 +4,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <strings.h>
+#include <ctype.h>
 #include "dictionary.h"
 
 // Represents a node in a hash table
@@ -15,15 +17,34 @@ typedef struct node
 node;
 
 // Number of buckets in hash table
-const unsigned int N = 1; // DENNIS: probebly I whant to change this number later to something larger
+const unsigned int N = 1400; 
 
 // Hash table
 node *table[N];
+
+// Dictionary size
+
+int dictionary_size = 0;
 
 // Returns true if word is in dictionary else false
 bool check(const char *word)
 {
     // TODO
+
+    int h = hash(word);
+    node *cursor = table[h];
+    while (cursor != NULL)
+    {
+        if (strcasecmp(cursor->word, word) == 0)
+        {
+            return true;
+            break;
+        }
+        else
+        {
+            cursor = cursor->next;
+        }
+    }
     return false;
 }
 
@@ -31,60 +52,68 @@ bool check(const char *word)
 unsigned int hash(const char *word)
 {
     // TODO
-    return 0;
+    int hash = 0;
+    for (int i = 0, w = strlen(word); i < w; i++)
+    {
+        int n = tolower((int)word[i]);
+        hash += n;
+    }
+
+    hash = hash % N;
+    return hash;
 }
 
 // Loads dictionary into memory, returning true if successful else false
 bool load(const char *dictionary)
 {
     // TODO
+    
     // open the dictionary
     FILE *dic = fopen(dictionary, "r");
+    
     // check if it work else return false
     if (dic == NULL)
     {
+        printf("could not open the dictionary!");
         return false;
     }
-    //start the singly linked-list
-    struct node* list = NULL;
+    
+    //start the singly linked-list in the table (sting all as NULL)
+    for (int i = 0; i < N; i++)
+    {
+        table[i] = NULL;
+    }
 
     char dicWord[LENGTH];
 
-    while (fscanf(dic, "%s", dicWord ) != EOF)
+    while (fscanf(dic, "%s", dicWord) != EOF)
     {
-        // printf("%s\n", dicWord); //just checking if I got the word
-        node *w = malloc(sizeof(node)); // saving memory for the new word
-        // printf("%p\n", w); //checking where it saved the memorie
-        if (w == NULL) // chellig if there is memorie for my new word
+        dictionary_size++;
+        int h = hash(dicWord);
+        // saving memory for the new word
+        node *w = malloc(sizeof(node)); 
+        //checking where it saved the memorie
+        if (w == NULL) 
         {
             return 1;
         }
-        if (list == NULL)
+        if (table[h] == NULL)
         {
-            // printf("list == NULL\n");
             strcpy(w->word, dicWord);
             w -> next = NULL;
-            list = w;
+            table[h] = w;
         }
         else
         {
             strcpy(w->word, dicWord);
-            w -> next = list;
-            list = w;
-
-            // printf("list != NULL\n");
-            // printf("List pointer = %p \n", &list); // the pointer of the list
-            // printf("first word of the list is %s\n", list->word); // the first word of the list
-            // printf("next word of the list is %p\n", list->next); // the next pointer of the list
+            w -> next = table[h];
+            table[h] = w;
         }
 
-        for (node *tmp = list; tmp != NULL; tmp = tmp->next)
-        {
-            printf("%s\n", tmp->word);
-        }
 
     }
-
+    
+    fclose(dic);
     return true;
 }
 
@@ -92,12 +121,22 @@ bool load(const char *dictionary)
 unsigned int size(void)
 {
     // TODO
-    return 0;
+    return dictionary_size;
 }
 
 // Unloads dictionary from memory, returning true if successful else false
 bool unload(void)
 {
     // TODO
-    return false;
+    for (int i = 0; i < N; i++)
+    {
+        node *cursor = table[i];
+        while (cursor != NULL)
+        {
+            node *tmp = cursor;
+            cursor = cursor->next;
+            free(tmp);
+        }
+    }
+    return true;
 }
