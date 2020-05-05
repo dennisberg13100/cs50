@@ -1,130 +1,3 @@
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-clear
-submit50 cs50/problems/2020/x/sentimental/mario/less
-submit50 cs50/problems/2020/x/sentimental/mario/less
-clear
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-python mario.py
-submit50 cs50/problems/2020/x/sentimental/mario/less
-python mario.py
-python mario.py
-submit50 cs50/problems/2020/x/sentimental/mario/more
-style50 mario.py
-style50 mario.py
-submit50 cs50/problems/2020/x/sentimental/mario/more
-touch cash.py
-./cash.py
-cd
-mkdir pset2
-cd pset6
-ls
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-.15
-.15
-python cash.py
-1.6
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-python cash.py
-4.2
-4.2
-python cash.py
-python cash.py
-python cash.py/
-python cash.py
-style50 cash.py
-style50 cash.py
-submit50 cs50/problems/2020/x/sentimental/cash
-touch readability.py
-cd pset6
-python readability.py
-python readability.py
-python readability.py
-python readability.py
-python readability.py
-python readability.py
-uma com três
-uma com três
-python readability.py
-python readability.py
-python readability.py
-python readability.py
-python readability.py
-uma frase. Uma segunda.
-python readability.py
-python readability.py
-python readability.py
-python readability.py
-python readability.py
-python readability.py
-python readability.py
-python readability.py
-python readability.py
-python readability.py
-python readability.py
-python readability.py
-python readability.py
 style50 readability.py
 style50 readability.py
 submit50 cs50/problems/2020/x/sentimental/readability
@@ -504,3 +377,126 @@ git add -All
 git add -A
 git status 
 ls 
+git commit -am "pset7 completed with success"
+git log
+git log
+git push https://github.com/dennisberg13100/cs50.git
+git push https://github.com/dennisberg13100/cs50.git
+clear
+http-server
+cd
+mkdir pset8
+cd pset8
+wget https://cdn.cs50.net/2019/fall/tracks/web/homepage/homepage.zip
+unzip homepage.zip
+rm homepage.zip
+ls
+cd homepage
+ls
+cd pset8/homepage
+pset8/homepage
+cd pset8/homepage
+cd pset8/homepage
+submit50 cs50/problems/2020/x/tracks/web/homepage
+submit50 cs50/problems/2020/x/tracks/web/homepage
+git init
+git status 
+git add README.md
+git satus
+git status
+git add -A
+git status 
+git commit -am "PSET8 from CS50 Harvard completes with success"
+git log 
+git remote add origin https://github.com/dennisberg13100/homepage-CS50.git
+git push -u origin master
+cd flask
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+cd flask
+run flask
+flask run
+flask run
+flask run
+flask run
+cd flask/tasks
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run 
+flask run 
+flask run
+flask run
+cd ../register
+clear
+cd flask/register
+cd flask/register
+flask run 
+run flask
+sqlite3 lecture.db
+cd flask/register
+flask run
+flack run
+flask run
+flak run
+flask run
+flask run
+flack run
+flask run
+flask run
+flask run
+flask run
+sqlite3 lecture.db
+cd
+wget https://cdn.cs50.net/2019/fall/tracks/web/finance/finance.zip
+unzip finance.zip
+rm -f finance.zip
+cd finance
+ls
+export API_KEY=pk_924f4b918e684d8884a8c8881e7754fa 
+cd finance
+cd finance
+export API_KEY=pk_924f4b918e684d8884a8c8881e7754fa 
+flask run
+export API_KEY=pk_924f4b918e684d8884a8c8881e7754fa
+flask run
+cd
+export API_KEY=pk_924f4b918e684d8884a8c8881e7754fa
+flask run
+flask run
+flask run
+flask run
+cd finance 
+sqlite3
+cd finance
+cd finances 
+cd finance
+http-server
+cd finances
+cd finance
+cd finance
+cd finance
+phpliteadmin --version
+sudo apt-get update -y
+sudo apt-get install -y phpliteadmin
+phpliteadmin --version
+clear
+cd finance
+flask run
+cd finance
+cd  finance
+sqlite finance.db
+cd finance
+cd finance
+cd finance 
+submit50 cs50/problems/2020/x/tracks/web/finance
+git stauts
+git status 

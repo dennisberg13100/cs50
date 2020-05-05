@@ -10,7 +10,7 @@
         "@stripws": true
     },
     "language": {
-        "@undeclaredVars": true,
+        "@undeclaredVars": false,
         "tern_defs": {
             "json()": {
                 "browser": {
