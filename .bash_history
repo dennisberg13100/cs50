@@ -1,11 +1,3 @@
-style50 readability.py
-style50 readability.py
-submit50 cs50/problems/2020/x/sentimental/readability
-cd
-cd week6
-cd week6
-python object.py
-python object.py
 cd pset6
 wget https://cdn.cs50.net/2019/fall/psets/6/dna/dna.zip
 unzip dna.zip
@@ -500,3 +492,11 @@ cd finance
 submit50 cs50/problems/2020/x/tracks/web/finance
 git stauts
 git status 
+git commit -am "Web finances completed with success"
+git push https://github.com/dennisberg13100/cs50.git
+git push https://github.com/dennisberg13100/cs50.git
+mkdir project
+cd project
+cd project
+git status 
+http-server
