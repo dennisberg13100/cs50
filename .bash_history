@@ -9,3 +9,7 @@ git commit --all
 git add -A
 git add --all
 git status 
+git commit -am "README done"
+git push -u origin master
+git push https://github.com/dennisberg13100/cs50.git
+git add --all
