@@ -1,0 +1,9 @@
+.c9/
+.cache/
+.config/
+.git/
+.git-credential-cache/
+.local/
+.ssh/
+.bash_history
+.c9

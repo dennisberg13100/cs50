@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    test
+{% endblock %}
+
+{% block main %}
+<h1>Teste</h1>
+    <ul>
+        {% for arg in args: %}
+        <li>{{ arg }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
