@@ -34,14 +34,20 @@ In this week we started to use SQL programing language and we learned about data
 
 ## Week 8
 
-Here we had oure last general lesson, and we talked a little bit about the risk of abstraction. From here on we had to chose our path. I chose the Web path. This path has 2 exercises, one for the front-end (html, css, and javaScript), in which we had to create a page telling about oure self. This page is available here in the pset8 folder and also online. [CLICK HERE OT VISIT THE SITE](https://dennisberg13100.github.io/homepage-CS50/).The second exercise was a kind of a game. In this game you start with $ 10,000.00 and you can buy and sell stock-markt shares to try to get more money. This exercise is available on the finance folder in this repository, and I have still plans to put it online aswell.
+Here we had oure last general lesson, and we talked a little bit about the risk of abstraction. From here on we had to chose our path. I chose the Web path. This path has 2 exercises, one for the front-end (html, css, and javaScript), in which we had to create a page telling about oure self. This page is available here in the pset8 folder and also online.
+
+
+[CLICK HERE OT VISIT THE SITE](https://dennisberg13100.github.io/homepage-CS50/).
+
+
+The second exercise was a kind of a game. In this game you start with $ 10,000.00 and you can buy and sell stock-markt shares to try to get more money. This exercise is available on the finance folder in this repository, and I have still plans to put it online aswell.
 
 ## Final Project
 
 For our final project we could chose what ever we whanted to program with any of the languages that we learned. I created a Front-end Sandbox. A website in which you van run some testcodes in HTML, CSS an JavaScript and see the results on real time on the same screen.
 
-The poject repository is available in: https://github.com/dennisberg13100/CS50-Final_Project
-The projects web-site is available on: https://dennisberg13100.github.io/CS50-Final_Project/
-You can also wacth a explanation video on: https://www.youtube.com/watch?v=l1V8zkv-xIY&t=2s
+* The poject repository is available in: https://github.com/dennisberg13100/CS50-Final_Project
+* The projects web-site is available on: https://dennisberg13100.github.io/CS50-Final_Project/
+* You can also wacth a explanation video on: https://www.youtube.com/watch?v=l1V8zkv-xIY&t=2s
 
-![CS50 certificate](/CS50xcertificate.png)
+![CS50 certificate](/certification.png)
